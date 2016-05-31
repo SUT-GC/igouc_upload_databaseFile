@@ -11,8 +11,8 @@ import com.qiniu.util.Auth;
  */
 public class UploadDumpFile {
 	
-	private  final String ACCESS_KEY = "LJcxRfv5nTPm92JSUrLlP72BY7xPWjIq8Sh-m4Kf";
-	private  final String SECRET_KEY ="147EU_I4oHeCCF5el0dBt7zoKpXI9EQmgp_cS9ze";
+	private  final String ACCESS_KEY = "xxxx";
+	private  final String SECRET_KEY ="xxxx";
 	
 	private  final String REGEX_BOOKMARK = "bookmark_database_[0-9]+.sql";
 	private  final String REGEX_MYBLOG = "myblog_database_[0-9]+.sql";
